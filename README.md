@@ -1,0 +1,1 @@
+# tagstick-assets
